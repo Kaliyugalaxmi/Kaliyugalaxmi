@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Laxmi Konar
 
-🎓 BCA Student  
+🎓 MCA Student  
 💻 Learning Java and Android development  
 🧠 Improving problem-solving and core programming skills  
 
