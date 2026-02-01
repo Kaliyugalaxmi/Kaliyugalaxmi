@@ -19,5 +19,5 @@ I enjoy learning by building, exploring new concepts, and continuously improving
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/your-link  
+- LinkedIn: - https://www.linkedin.com/in/laxmikonar/
 - Email: konarlaxmi04@gmail.com
