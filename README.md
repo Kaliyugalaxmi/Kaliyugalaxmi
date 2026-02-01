@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Laxmi Konar
 
-<!--
-**Kaliyugalaxmi/Kaliyugalaxmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Learning Java and Android development  
+🧠 Improving problem-solving and core programming skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Java programming fundamentals  
+- Android application development  
+- Data structures and logical thinking  
+
+---
+
+### ✨ About Me
+I enjoy learning by building, exploring new concepts, and continuously improving my skills in software development.
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/your-link  
+- Email: konarlaxmi04@gmail.com
